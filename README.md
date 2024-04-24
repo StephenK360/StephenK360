@@ -19,6 +19,4 @@ const Stephen = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>hi!</b> :)</em>
 
-<em>Thank you for reading</em> <br>
-<img align="below" height="100" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdjbmQ2b2s2M3QwaDl6a3RpczFoMm51dHh0ano0bWw5cXJ3ZnRrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya8zfzm5tafJlein7z/giphy-downsized-large.gif">
----
+<em>Thank you for reading</em>
