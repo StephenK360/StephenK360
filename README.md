@@ -1,11 +1,10 @@
-<h2> Hi, I'm Stephen K <img src="https://i.imgur.com/MKDuazq.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.london.ac.uk">University of London</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Stephen K <img src="https://i.imgur.com/MKDuazq.gif" width="500" height="125"></h2>
+<p><em>Student at <a href="https://www.london.ac.uk">University of London</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Analyst at <a>Telus International</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-[![Linkedin: stephenkassaw](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/stephen-kassaw/)
-[![GitHub](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/StephenK360)
+[![Linkedin: stephenkassaw](https://img.shields.io/badge/linkedin-stephen_kassaw-blue)](https://www.linkedin.com/in/stephen-kassaw/)
+[![GitHub](https://img.shields.io/badge/github-stephenk360-blue)](https://github.com/StephenK360)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,6 +17,8 @@ const Stephen = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>hi!</b> :)</em>
 
+<em>Thank you for reading</em> <br> <br>
+<img align="below" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdjbmQ2b2s2M3QwaDl6a3RpczFoMm51dHh0ano0bWw5cXJ3ZnRrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya8zfzm5tafJlein7z/giphy-downsized-large.gif">
 ---
