@@ -12,7 +12,7 @@
 ```javascript
 const Stephen = {
   code: [Javascript, HTML, CSS, SQL, Python, Linux],
-  tools: [Google Chronicle, Node],
+  tools: [Google Chronicle,Wireshark, Node],
   current challenge: "I am focused on learning react"
 }
 ```
